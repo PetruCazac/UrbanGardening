@@ -27,7 +27,7 @@ This project focuses on the development of a hydroponic system managed by a Rasp
 - **Stage 4:** Grow Stuff!  
 
 ## Progress
-We have currently finished **Stage 1** by creating a prototype of the website and are now preparing for **Stage 2**. For **Stage 1** we implemented the following technologies:
+We have currently finished **Stage 2** by collecting all the sensors and elecronic devices and are now building the test stand for **Stage 3**. For **Stage 1** we implemented the following technologies:
 
 1. **Frontend**: <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vue,tailwind,typescript" /></a>
@@ -43,6 +43,10 @@ The nginx server and the Go backend (using Gin) are implemented as a systemd ser
 <p align="center">
     <img src="schematic.png" width="70%">
 <p>
+
+For the **Stage 3** we are using the following wiring diagram:
+![UrbanGardeningWiring](https://github.com/PetruCazac/UrbanGardening/assets/79046351/d449111a-d87c-450d-b538-2c6c7b6e3cad)
+
 
 ## What is hydroponics?
 Hydroponics is a subset of hydroculture, which is a method of growing plants without the use of soil. Instead, plants are grown in an inert and sterile growing medium and nourished with a nutrient-rich water solution. This method allows plants to receive minerals and vitamins directly from the water, leading to faster growth and higher yields. Here are some key points about hydroponics:
